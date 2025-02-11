@@ -6,15 +6,19 @@
 
 ## :computer: INSTALLATION INSTRUCTIONS:computer:  
 
-1. Install wasm:  
-https://rustwasm.github.io/wasm-pack/installer/
 
-2. Install rust:  
+
+1. Install rust:  
 https://rustup.rs/
 
-3. Then:  
+2. Then:  
+`echo 'export PATH="$HOME/.cargo/bin:$PATH"' >> ~/.bashrc`
+`source ~/.bashrc`
 `rustup install stable`   
 `rustup target add wasm32-unknown-unknown`
+
+3. Install wasm:  
+https://rustwasm.github.io/wasm-pack/installer/
 
 4. If you want to get Rust IDE support, VSCode has a straightforward extension "rust-analyzer" that works great, but for other IDEs you'll need to install rust-analyzer yourself. It's available through homebrew for MacOS.  
 https://rust-analyzer.github.io/book/installation.html  
