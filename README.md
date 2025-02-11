@@ -12,10 +12,10 @@
 https://rustup.rs/
 
 2. Then:  
-`echo 'export PATH="$HOME/.cargo/bin:$PATH"' >> ~/.bashrc`
-`source ~/.bashrc`
+`echo 'export PATH="$HOME/.cargo/bin:$PATH"' >> ~/.bashrc`  
+`source ~/.bashrc`  
 `rustup install stable`   
-`rustup target add wasm32-unknown-unknown`
+`rustup target add wasm32-unknown-unknown`  
 
 3. Install wasm:  
 https://rustwasm.github.io/wasm-pack/installer/
