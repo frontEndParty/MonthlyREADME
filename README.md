@@ -23,4 +23,4 @@ https://rustwasm.github.io/wasm-pack/installer/
 https://rust-analyzer.github.io/book/installation.html  
 
 5. Clone this repo:
-repo coming soon to a party near you
+https://github.com/adamchalmers/rust-qr-wasm-demo
