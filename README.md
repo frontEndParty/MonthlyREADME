@@ -5,8 +5,8 @@
 - [Join the Slack](https://join.slack.com/t/nola/shared_invite/zt-31kj9x0n9-eBXf1kAdAmtp96KA0RHzaw)
   - [Join the FEP Slack Channel](https://nola.slack.com/archives/C05CT3DG0F4)
 
-#### GH Repo for tonight!
-- [Tonight's Maptivity](https://github.com/frontEndParty/old-maps-demo) 
+#### Tonight's Maptivity!
+- [old-maps-demo](https://github.com/frontEndParty/old-maps-demo) 
  
 #### Future!
 - [🐖Pig Jam🐖](https://itch.io/jam/pig-jam-2025)
